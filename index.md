@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Project Assignment
 
-[Project 1 Title](/sample_page)
+[Food Delivery](/food-delivery.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
