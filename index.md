@@ -8,7 +8,7 @@
 <img src="images/food-delivery.png?raw=true"/>
 
 ---
-[IMBD Recomendation](/imbd.ipynb)
+[IMBb Recomendation](/imbd.ipynb)
 <img src="images/imbd.png?raw=true"/>
 
 ---
